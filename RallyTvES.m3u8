@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="program_audio",LANGUAGE="es",NAME="Español",DEFAULT=YES,AUTOSELECT=YES,URI="https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master_es_8160.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=9328000,AVERAGE-BANDWIDTH=8976000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio"
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master_20260422_8000.m3u8
